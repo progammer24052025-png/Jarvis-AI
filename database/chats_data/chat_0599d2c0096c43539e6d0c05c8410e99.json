@@ -1,0 +1,21 @@
+{
+  "session_id": "0599d2c0-096c-4353-9e6d-0c05c8410e99",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hi"
+    },
+    {
+      "role": "assistant",
+      "content": ""
+    },
+    {
+      "role": "user",
+      "content": "Hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, it's nice to see you again, how's your day going so far on this Monday morning, March 16, 2026?"
+    }
+  ]
+}

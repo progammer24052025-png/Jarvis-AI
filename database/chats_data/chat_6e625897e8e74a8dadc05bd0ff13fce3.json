@@ -1,0 +1,29 @@
+{
+  "session_id": "6e625897-e8e7-4a8d-adc0-5bd0ff13fce3",
+  "messages": [
+    {
+      "role": "user",
+      "content": "wrong day"
+    },
+    {
+      "role": "assistant",
+      "content": "The current day is actually Wednesday, not Monday. I'll make sure to have the correct information going forward."
+    },
+    {
+      "role": "user",
+      "content": "hello this is Rudra Patel speaking please help me I am in trouble with"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello Rudraksh Sir, I'm here to help you with whatever trouble you're facing. Please go ahead and share what's on your mind, and I'll do my best to assist you. What seems to be the issue?"
+    },
+    {
+      "role": "user",
+      "content": "han wrong bol raha hai tu sale Rudra bol raha hun main"
+    },
+    {
+      "role": "assistant",
+      "content": "Sorry Rudra, I made a mistake by calling you Rudraksh. Please tell me what's troubling you, I'm all ears and here to help."
+    }
+  ]
+}

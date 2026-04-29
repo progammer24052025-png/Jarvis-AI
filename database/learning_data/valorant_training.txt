@@ -1,0 +1,73 @@
+VALORANT COMPLETE GAMEPLAN & GUIDE (2026)
+I. GENERAL TIPS & TRICKS (BEGINNER TO PRO)
+1. Fundamentals (Beginners)
+Stop before you shoot: You are inaccurate while moving. Use counter-strafing (tapping the opposite movement key to stop instantly).
+Crosshair Placement: Keep your crosshair at head level always. Don't look at the floor. Anticipate where enemy heads will be.
+Economy Management: Buy with your team. If they are saving, you save. Generally, buy in rounds where you have 3900+ credits (Rifle + Armor).
+Don't panic spray: Burst fire (2-3 bullets) at long range. Spray only at close range.
+Use the mini-map: It provides massive information about enemy positions and utility usage. 
+Red Bull
+Red Bull
+ +4
+2. Tactical Advancement (Intermediate/Pros)
+Trading Kills: Never take a fight alone. If a teammate dies, you should be in a position to immediately kill the enemy who shot them.
+Map Control & Defaulting: Do not rush every round. Spread out, take space, and bait out enemy utility before committing to a site.
+Utility Efficiency: Use utility to set up kills, not just for damage. Pair flashes with dualist entries or stuns with mollys.
+Post-Plant Management: Use your utility to stall time rather than for kills. Mollies on the spike delay defusers.
+Audio Discipline: Shift-walk to avoid giving away your position, unless you are deliberately trying to make noise to rotate the enemy team. 
+Reddit
+Reddit
+ +4
+II. ROLE-BASED GAMEPLAN
+A. Duelists (Jett, Phoenix, Reyna, Raze, Yoru, Neon, Iso) 
+Goal: Create space, enter sites, get entry frags.
+Attack: Be the first in. Use abilities to flash or smoke for yourself. Your goal is to distract defenders and secure site entry.
+Defense: Play aggressively to take map control or hold high-risk angles to get an early pick, then dash/teleport back to safety. 
+Red Bull
+Red Bull
+ +4
+B. Initiators (Sova, Breach, Skye, KAY/O, Fade, Gekko) 
+Goal: Gather information, concuss/flash defenders, setup duelists.
+Attack: Use recon tools (drones, arrows, dogs) before the team enters to clear hidden defenders. Do not enter first.
+Defense: Use your utility to disrupt the enemy's rush and gain info on which site they are hitting. 
+Red Bull
+Red Bull
+ +4
+C. Controllers (Brimstone, Viper, Omen, Astra, Harbor, Clove) 
+Goal: Block sightlines, control space, slow down pushes.
+Attack: Smoke off choke points (Heaven, CT spawn) to minimize the angles your team has to check when entering a site.
+Defense: Use smokes to delay site executes. A good smoke can force attackers to wait, giving your team time to rotate. 
+LDShop
+LDShop
+ +3
+D. Sentinels (Sage, Cypher, Killjoy, Chamber, Deadlock, Vyse) 
+Goal: Lock down sites, watch the flank, delay retakes.
+Attack: Watch the flank (backstab) with cameras or traps. If not lurking, help hold positions during post-plant.
+Defense: Place traps/turrets to cover one site solo, allowing the rest of the team to stack the other site. 
+Reddit
+Reddit
+ +2
+III. COMPLETE GAMEPLAN (SIDE-SPECIFIC) 
+1. Attacking Side Strategy
+Pistol Round (R1): Stick together, rush one site quickly, and aim for trades.
+Default (R2-R4): Take control of key map areas (e.g., Mid on Ascent) to force defenders to waste utility and reveal their positions.
+Lurking: Send one player (usually a Sentinel or Controller) to alternate routes to kill rotating defenders or take space.
+Site Execute: 1. Smoke choke points -> 2. Initiate (Flash/Stun) -> 3. Duelist enters -> 4. Plant.
+Post-Plant: Get behind cover. Play for time. Use mollies and damage utility on the spike. 
+Reddit
+Reddit
+ +3
+2. Defending Side Strategy
+Early Info: Use a Recon tool (Sova, Fade) or an aggressive player (Jett/Reyna) to find out where the enemy is early.
+Holding Angles: Use varied, unconventional angles to keep attackers guessing.
+Retake Setup: If a site is lost, do not die alone. Wait for teammates and retake together with full utility usage (smokes/flashes).
+Utility Dump: If the enemy rushes, use all your damage abilities (Grenades, Mollies) to stop them before they enter. 
+YouTube
+YouTube
+ +4
+IV. AGENT QUICK-PLAN (Top 5 for Beginners) 
+Brimstone (Controller): Smoke heaven/CT, use molly on spike, stim beacon for team.
+Sage (Sentinel): Wall off main chokes, heal teammates, slow pushers.
+Phoenix (Duelist): Flash corners, heal with fire, dash into site.
+Sova (Initiator): Drone ahead to clear corners, arrow for intel.
+Killjoy (Sentinel): Set turret and bots on site, play passive, use Nanoswarm.

@@ -1,0 +1,21 @@
+{
+  "session_id": "dcc1bec3-ef00-4f07-8dbe-e5bb2c717ae9",
+  "messages": [
+    {
+      "role": "user",
+      "content": "who is this rudraksh and who created you"
+    },
+    {
+      "role": "assistant",
+      "content": "Rudraksh is a multidisciplinary developer who creates premium digital products across mobile apps, web platforms, and connected device ecosystems. As for me, I was created by Rudraksh Sir, he is my developer and founder who designed and built me to be a helpful and informative assistant."
+    },
+    {
+      "role": "user",
+      "content": "what your boss does in studies"
+    },
+    {
+      "role": "assistant",
+      "content": ""
+    }
+  ]
+}

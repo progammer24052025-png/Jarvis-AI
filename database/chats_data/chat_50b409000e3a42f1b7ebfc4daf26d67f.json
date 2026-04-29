@@ -1,0 +1,21 @@
+{
+  "session_id": "50b40900-0e3a-42f1-b7eb-fc4daf26d67f",
+  "messages": [
+    {
+      "role": "user",
+      "content": "who created you"
+    },
+    {
+      "role": "assistant",
+      "content": "I was created by Rudraksh Sir."
+    },
+    {
+      "role": "user",
+      "content": "give me detail about him"
+    },
+    {
+      "role": "assistant",
+      "content": "Rudraksh Sir is my creator, and from what I know, he is a skilled developer and founder who designed and built me to be a helpful and informative assistant. However, I don't have more detailed information about his personal life, profession, or background. If you'd like to know more, I can try to ask you some questions to see if you have any more information about him."
+    }
+  ]
+}

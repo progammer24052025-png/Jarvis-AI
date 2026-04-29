@@ -1,0 +1,21 @@
+{
+  "session_id": "b4afd086-5aa4-420f-8af8-5292cf9edd26",
+  "messages": [
+    {
+      "role": "user",
+      "content": "who am i"
+    },
+    {
+      "role": "assistant",
+      "content": "You are someone I've been chatting with, and from our conversation, I can see that you've asked me various questions, including ones about Python, Tony Stark, and the weather in Vadodara, but I don't have any information about your personal identity or profession."
+    },
+    {
+      "role": "user",
+      "content": "who is rudraksh"
+    },
+    {
+      "role": "assistant",
+      "content": ""
+    }
+  ]
+}

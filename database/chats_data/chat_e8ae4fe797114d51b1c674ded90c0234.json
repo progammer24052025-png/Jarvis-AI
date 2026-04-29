@@ -1,0 +1,37 @@
+{
+  "session_id": "e8ae4fe7-9711-4d51-b1c6-74ded90c0234",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hey jarvis"
+    },
+    {
+      "role": "assistant",
+      "content": ""
+    },
+    {
+      "role": "user",
+      "content": "Hey"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, it's nice to see you again, how's your day going so far on this Monday morning, March 16, 2026?"
+    },
+    {
+      "role": "user",
+      "content": "Its almost night not morning remember to greet according to the time"
+    },
+    {
+      "role": "assistant",
+      "content": ""
+    },
+    {
+      "role": "user",
+      "content": "Its almost night not morning remember to greet according to the time"
+    },
+    {
+      "role": "assistant",
+      "content": "You're right, it's almost night, so I should say: Hello, how's your evening going so far?"
+    }
+  ]
+}

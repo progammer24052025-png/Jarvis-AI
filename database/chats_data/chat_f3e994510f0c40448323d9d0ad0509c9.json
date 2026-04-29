@@ -1,0 +1,13 @@
+{
+  "session_id": "f3e99451-0f0c-4044-8323-d9d0ad0509c9",
+  "messages": [
+    {
+      "role": "user",
+      "content": "who is rudraksh"
+    },
+    {
+      "role": "assistant",
+      "content": "Rudraksh is a multidisciplinary developer who creates premium digital products across mobile apps, web platforms, and connected device ecosystems, and he is also my creator and founder who designed and built me to be a helpful and informative assistant."
+    }
+  ]
+}

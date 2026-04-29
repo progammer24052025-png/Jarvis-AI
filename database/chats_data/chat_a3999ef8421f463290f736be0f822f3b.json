@@ -1,0 +1,13 @@
+{
+  "session_id": "a3999ef8-421f-4632-90f7-36be0f822f3b",
+  "messages": [
+    {
+      "role": "user",
+      "content": "who am i"
+    },
+    {
+      "role": "assistant",
+      "content": "You are someone I've been chatting with, and from our conversation, I can see that you've asked me various questions, including ones about Python, Tony Stark, and the weather in Vadodara. However, I don't have any information about your personal identity or profession. By the way, I was created by Rudraksh Sir, and I'm happy to be assisting you today."
+    }
+  ]
+}

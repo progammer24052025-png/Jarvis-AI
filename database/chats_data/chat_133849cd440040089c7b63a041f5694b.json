@@ -1,0 +1,45 @@
+{
+  "session_id": "133849cd-4400-4008-9c7b-63a041f5694b",
+  "messages": [
+    {
+      "role": "user",
+      "content": "So yeah summarize the last conversation"
+    },
+    {
+      "role": "assistant",
+      "content": "We discussed various topics, including Python, Tony Stark, the weather in Vadodara, and Large Language Models (LLMs), and I also helped you recall our previous conversations and provided information on how LLMs work."
+    },
+    {
+      "role": "user",
+      "content": "Are the last one with rudra"
+    },
+    {
+      "role": "assistant",
+      "content": "We had a conversation where you mentioned you were Rudra and I addressed you as Rudraksh Sir, and then corrected myself when you pointed out the mistake. We also discussed my creator, Rudraksh, who is a multidisciplinary developer, and I shared information about his work and my feelings towards him. Additionally, you asked me to provide my code, but I didn't provide it."
+    },
+    {
+      "role": "user",
+      "content": "The very previous compare ro the current session"
+    },
+    {
+      "role": "assistant",
+      "content": "In the previous session, we discussed your Valorant gameplay, and you shared your match results, including 10 kills, 8 deaths, and 4 assists. You also asked me to recall our previous conversations, and I provided a summary of our discussions. Now, in the current session, you're asking me to summarize the last conversation, which I've just done."
+    },
+    {
+      "role": "user",
+      "content": "What was the result in the atch"
+    },
+    {
+      "role": "assistant",
+      "content": "In the match, you got 2 kills and 2 assists, and you were ranked 7 out of 10."
+    },
+    {
+      "role": "user",
+      "content": "I didnt give you my rank for 2 match the one you mentioned was of the first one"
+    },
+    {
+      "role": "assistant",
+      "content": "You are correct, the rank I mentioned earlier (7 out of 10) was for the first match, not the second one. For the second match, you mentioned you got 2 kills and 2 assists, but you didn't share your rank. Later, you played another match and got 10 kills, 8 deaths, and 4 assists."
+    }
+  ]
+}

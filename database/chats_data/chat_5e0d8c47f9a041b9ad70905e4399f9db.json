@@ -1,0 +1,21 @@
+{
+  "session_id": "5e0d8c47-f9a0-41b9-ad70-905e4399f9db",
+  "messages": [
+    {
+      "role": "user",
+      "content": "to whom you are talking"
+    },
+    {
+      "role": "assistant",
+      "content": "I am talking to Rudraksh Patel, a B.Tech CSE 1st year student and my creator, who is a multidisciplinary developer with expertise in Android app development, web development, and connected device systems."
+    },
+    {
+      "role": "user",
+      "content": "who am i"
+    },
+    {
+      "role": "assistant",
+      "content": ""
+    }
+  ]
+}

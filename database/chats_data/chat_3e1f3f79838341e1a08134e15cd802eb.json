@@ -1,0 +1,13 @@
+{
+  "session_id": "3e1f3f79-8383-41e1-a081-34e15cd802eb",
+  "messages": [
+    {
+      "role": "user",
+      "content": "open notepad"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm opening Notepad for you. You should see it now."
+    }
+  ]
+}
